@@ -10,4 +10,6 @@ import java.util.HashMap;
  **/
 public class BeanFactory1<T> extends BeanFactory{
 
+
+
 }

@@ -13,7 +13,7 @@ public class List {
     public static void main(String[] args) {
 
         ArrayList<String> list = new ArrayList<String>();
-
+        list.add("name");
         new ConcurrentHashMap<String,String>();
 
     }
